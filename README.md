@@ -1,2 +1,2 @@
 # gitpod-test
-Test of gitpod for production.
+Test of gitpod for fun.
